@@ -1,35 +1,36 @@
 body{
-  background-color: #10191f;
-  color: #FFFFFF;
+  background-color: #00ffff;
+
 }
+
 .well{
   text-align: center;
-  background-color: #10191f;
+  background-color: #00ffff;
 }
 .first-heading{
   font-family: 'Courgette', cursive;
-  color: #7fff00
+  color: #ff00ff
 }
 .row{
   margin-bottom: 60px;
 }
 .omari{
   text-align: center;
-  color: #00ff00;
+  color: #ff00ff;
 }
 .second-heading{
     font-family: 'Courgette', cursive;
-    color: #00FA9A;
+    color: #ff00ff;
 }
 .thoughts{
   font-family: 'Courgette', cursive;
   font-size: 25px;
-  color: #7fff00;
+  color: #ff00ff;
 }
 .bible-verse{
   font-family: 'Big Shoulders Display', cursive;
   font-size: 25px;
-  color: #ADFF2F;
+  color: #ff00ff;
 }
 .confetti {
   width: 15px;
