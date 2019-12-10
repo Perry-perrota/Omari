@@ -1,37 +1,56 @@
 body{
-  background-color: #00ffff;
+  background-color: #ffffff;;
 
 }
 
 .well{
   text-align: center;
-  background-color: #00ffff;
+  background-color: #ffffff;
+}
+.col-md-4{
+  float: left;
+}
+.bigIcons{
+  height:100%x;
+  width:100%
 }
 .first-heading{
-  font-family: 'Courgette', cursive;
-  color: #ff00ff
+font-family: 'Lobster', cursive;
+  color: #FF6347
+}
+.first-head{
+    text-align: center;
 }
 .row{
   margin-bottom: 60px;
 }
 .omari{
   text-align: center;
-  color: #ff00ff;
+  color: #0000FF;
+  font-size: 60px;
 }
 .second-heading{
-    font-family: 'Courgette', cursive;
-    color: #ff00ff;
+    font-family: 'Lobster', cursive;
+    color: #FF6347;
 }
 .thoughts{
-  font-family: 'Courgette', cursive;
+  font-family: 'Cookie', cursive;
   font-size: 25px;
-  color: #ff00ff;
+  color: #0000FF;
 }
 .bible-verse{
-  font-family: 'Big Shoulders Display', cursive;
+font-family: 'Cookie', cursive;
   font-size: 25px;
-  color: #ff00ff;
+  color: #0000FF;
 }
+
+.bIcons{
+  height: 80px;
+  width:80px;
+}
+
+
+
 .confetti {
   width: 15px;
   height: 15px;
